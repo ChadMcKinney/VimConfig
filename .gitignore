@@ -1,0 +1,5 @@
+# Vim Artifacts
+*.swp
+*.swo
+.ctrlp_cache/
+.netrwhist
